@@ -6,7 +6,7 @@
 ### 👤 𝗜𝗻𝘁𝗿𝗼 𝗱𝗲 𝗽𝗿𝗲𝘀𝗲𝗻𝘁𝗮𝗰𝗶𝗼𝗻 🈲
 ```bash
 "👤 Nombre" : "GianPool"
-"📊 Estado" : "Activo"
+"📊 Estado" : "Inactivo"
 ```
 - 🔭 Estoy trabajando en **el proyecto de Michi-WaBot**
 - 🌱 Estoy Mejorando **JavaScript & HTML**
