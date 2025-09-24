@@ -8,7 +8,7 @@
 "👤 Nombre" : "GianPool"
 "📊 Estado" : "Inactivo"
 ```
-- 🔭 Estoy trabajando en **el proyecto de Michi-WaBot**
+- 🔭 Estoy trabajando en **el proyecto de Nakano-Ai**
 - 🌱 Estoy Mejorando **JavaScript & HTML**
 - 📫 Contáctame en **WhatsApp**
 - ⚡ Dato curioso **Me gusta mucho el Diseño Gráfico y 3D**
