@@ -55,4 +55,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+apt update && apt upgrade -y
+pkg install -y git nodejs ffmpeg imagemagick
+
+
 -->
